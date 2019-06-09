@@ -4,7 +4,8 @@ Pixos is a clipped compound of Pix (Pics) and Operating System (OS) - hence Pixo
 Pixos is an open-source platform for handling photos, documents and files. 
 
 It provides a great touch interface for interacting with data files and is multimedia rich.
-The interface allows you to try files.
+
+The interface allows you to drag and drop files on screen.
 
 To be added unto the platform is the ability to play videos and open URLs.  
 
