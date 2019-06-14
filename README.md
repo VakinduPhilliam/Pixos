@@ -9,6 +9,6 @@ The interface allows you to drag and drop files on screen.
 
 To be added unto the platform is the ability to play videos and open URLs.  
 
-Also; Hand scaling, Artificial Intelligence (AI).
+Also; Hand scaling, Artificial Intelligence (AI), Image Capture.
 
 By Vakindu Philliam.
